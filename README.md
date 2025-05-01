@@ -14,8 +14,10 @@ here is the actual deployed link- https://team-vikasana-git-main-gauravs-project
 
 
 
-//ravi.sp@karnataka.gov.in
-//SecurePass123
+ravi.sp@karnataka.gov.in
 
 
-Use the above creedentials to see the working!!
+SecurePass123
+
+
+Use the above credentials to see the working!!
