@@ -11,6 +11,6 @@ Our solution guarantees an improved, data-driven, and more effective mechanism f
 
 The vercel link is not properly function :
 here is the actual deployed link- https://team-vikasana-git-main-gauravs-projects-05802549.vercel.app/dashboard
-ravi.sp@karnataka.gov.in
-SecurePass123
+//ravi.sp@karnataka.gov.in
+//SecurePass123
 Use the above creedentials to see the working!!
