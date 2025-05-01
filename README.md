@@ -8,3 +8,9 @@ The backend is implemented in Node.js and Express.js and MongoDB as the storage 
 The solution decreases paperwork, improves transparency, gives real-time data for decision-making, and reduces response time in emergency situations. The solution is scalable to several districts and police stations and can further be scaled by using predictive policing, geo-fencing, and mobile app interfaces.
 
 Our solution guarantees an improved, data-driven, and more effective mechanism for policing with the objective of decreasing crime rates and ensuring enhanced public safety.
+
+The vercel link is not properly function :
+here is the actual deployed link- https://team-vikasana-git-main-gauravs-projects-05802549.vercel.app/dashboard
+ravi.sp@karnataka.gov.in
+SecurePass123
+Use the above creedentials to see the working!!
